@@ -3,25 +3,21 @@
 ## 第1週 課程簡介與運算思維
 
 - [投影片](https://silencecork.github.io/computational_thinking_n_programming/slides/01_Python程式簡介.slides.html#/)
-
-- [講義](https://silencecork.github.io/computational_thinking_n_programming/notebooks/01_Python程式簡介.ipynb)
-
-  
+- [講義(下載)](https://silencecork.github.io/computational_thinking_n_programming/notebooks/01_Python程式簡介.ipynb)
+- [講義(線上)](https://colab.research.google.com/drive/1ktI8bQXMFN9NNSGZ8gcQOb7XT93t6MD7?usp=sharing)
 
 ## 第2、3週 變數
 
 - [投影片](https://silencecork.github.io/computational_thinking_n_programming/slides/02_變數、運算式、陳述式.slides.html#/)
-
-- [講義](https://silencecork.github.io/computational_thinking_n_programming/notebooks/02_變數、運算式、陳述式.ipynb)
-
+- [講義(下載)](https://silencecork.github.io/computational_thinking_n_programming/notebooks/02_變數、運算式、陳述式.ipynb)
+- [講義(線上)](https://colab.research.google.com/drive/121J3V8ijnnMcDE9xY6nWt13Vo7Yqmpr_?usp=sharing)
   
 
 ## 第4、5週 條件式
 
 - [投影片]()
-
-- [講義]()
-
+- [講義(下載)](https://silencecork.github.io/computational_thinking_n_programming/notebooks/03_條件式.ipynb)
+- [講義(線上)](https://drive.google.com/file/d/1a_9AgPAv9kqRMoeU0-DdiDBI9C2jxZw3/view?usp=sharing)
   
 
 ## 第6、7週 函式
