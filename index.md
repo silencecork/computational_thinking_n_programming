@@ -15,9 +15,9 @@
 
 ## 第4、5週 條件式
 
-- [投影片]()
+- [投影片](https://silencecork.github.io/computational_thinking_n_programming/slides/03_條件式.slides.html#/)
 - [講義(下載)](https://silencecork.github.io/computational_thinking_n_programming/notebooks/03_條件式.ipynb)
-- [講義(線上)](https://colab.research.google.com/drive/1skRi8cjyxKncFQW4dLhYTdjn8Prdwlam?usp=sharing)
+- [講義(線上)](https://colab.research.google.com/drive/1OZpdEcAa20wXfoZISd39Z82uF8EcCpV-?usp=sharing)
   
 
 ## 第6、7週 函式
