@@ -17,7 +17,7 @@
 
 - [投影片]()
 - [講義(下載)](https://silencecork.github.io/computational_thinking_n_programming/notebooks/03_條件式.ipynb)
-- [講義(線上)](https://drive.google.com/file/d/1a_9AgPAv9kqRMoeU0-DdiDBI9C2jxZw3/view?usp=sharing)
+- [講義(線上)](https://colab.research.google.com/drive/1skRi8cjyxKncFQW4dLhYTdjn8Prdwlam?usp=sharing)
   
 
 ## 第6、7週 函式
