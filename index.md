@@ -22,10 +22,9 @@
 
 ## 第6、7週 函式
 
-- [投影片]()
-
-- [講義]()
-
+- [投影片](https://silencecork.github.io/computational_thinking_n_programming/slides/04_函數.slides.html#/)
+- [講義(下載)](https://silencecork.github.io/computational_thinking_n_programming/notebooks/04_函數.ipynb)
+- [講義(線上)](https://colab.research.google.com/drive/15LehnmVFYqej5fSRsEeRy8kvIwFvnoUz?usp=sharing)
   
 
 ## 第8、10週 迴圈
