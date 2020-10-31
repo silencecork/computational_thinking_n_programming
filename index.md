@@ -29,9 +29,9 @@
 
 ## 第8、10週 迴圈
 
-- [投影片]()
-
-- [講義]()
+- [投影片](https://silencecork.github.io/computational_thinking_n_programming/slides/05_迴圈與迭代.slides.html#/)
+- [講義(下載)](https://silencecork.github.io/computational_thinking_n_programming/notebooks/05_迴圈與迭代.ipynb)
+- [講義(線上)](https://colab.research.google.com/drive/1zqNm2epYyIl49tE2MAIN0nRQ9kTQrEiG?usp=sharing)
 
   
 
