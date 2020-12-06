@@ -37,9 +37,9 @@
 
 ## 第11、12週 字串
 
-- [投影片]()
-
-- [講義]()
+- [投影片](https://silencecork.github.io/computational_thinking_n_programming/slides/06_字串.slides.html#/)
+- [講義(下載)](https://silencecork.github.io/computational_thinking_n_programming/notebooks/06_字串.ipynb)
+- [講義(線上)](https://colab.research.google.com/drive/11Hi8Sg71ZNvdp4nuVE6tqTSFZj-C4nwg?usp=sharing)
 
   
 
